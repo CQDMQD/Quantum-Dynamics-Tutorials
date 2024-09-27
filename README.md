@@ -37,7 +37,7 @@ Simply select a notebook and execute them locally or in google collab. Necessary
 
 ### Additional Repositories <a name="repos"></a>
 
-[![Static Badge](https://img.shields.io/badge/Open_in_Github-181717.svg?&logo=github&logoColor=white)](https://github.com/dcabral00/qc_spin_tutorial) | Spin Chain Tutorial Section: 
+[![Static Badge](https://img.shields.io/badge/Open_in_Github-181717.svg?&logo=github&logoColor=white)](https://github.com/dcabral00/qc_spin_tutorial) | Spin Chain Tutorial Section 
 
 [![Static Badge](https://img.shields.io/badge/Open_in_Github-181717.svg?&logo=github&logoColor=white)](https://github.com/saurabhshivpuje/Tutorials-for-Open-Quantum-Systems) | Open Quantum using Lindblad
 
